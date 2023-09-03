@@ -1,0 +1,7 @@
+*.dat
+*.do
+*.bat
+*.vcd
+work/*
+testfixture.v
+transcript
